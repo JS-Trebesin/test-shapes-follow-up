@@ -33,4 +33,4 @@ Co jsme nebrali: jak pracovat s radio inputem v Javascriptu
 *Pro ty co chtějí ještě větší challenge: co zkusit pro zlepšní designu kódu a méně opakování: zvolit všechny radio inputy pomocí querySelectorAll a následně zjistit, jak s tím dále pracovat. Odměnou známka s ještě vyšší vahou.*
 
 
-### Svůj úkol/y odevzdávejte do příslušné složky a následně zašlete informaci, že jste kód odevzdali na mail/teams/discord/dejte vědět v hodině.
+### Svůj úkol/y odevzdávejte do příslušné složky a následně zašlete informaci, že jste kód odevzdali, na mail/teams/discord/dejte vědět v hodině.
