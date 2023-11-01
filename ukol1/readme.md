@@ -21,3 +21,5 @@ Co jsme neprobírali: jak v CSS vytvořit trojúhelník.
 
 
 *Co zkusit pro zlepšní designu kódu a méně opakování: použít jednu obecnou funkci, pro kreslení všech tvarů. Nápověda: anonymní funkce (potřeba vygooglit) v eventListeneru spouští tuto jednu univerzální funkce. Nápověda druhá: budou se hodit parametry ve funkci. Odměnou byť známka s vyšší vahou.*
+
+**Po odevzdání zašlete informaci, že jste kód odevzdali, na mail/teams/discord/dejte vědět v hodině.**
