@@ -9,7 +9,11 @@
 
 ## Úkol 1
 
-Vylepšete stránku viz [klik](https://js-trebesin.github.io/test-shapes/ukol/shapes.html).
+Vylepšete stránku viz:
+
+![úkol-gif](https://github.com/JS-Trebesin/test-shapes-follow-up/assets/84028625/1922754d-4360-467f-b11a-d62adb6cf7a1)
+
+[úkol-jpg](https://github.com/JS-Trebesin/test-shapes-follow-up/assets/84028625/9a6254c9-880d-4425-9873-480151df460d)
 
 
 - Stránka nyní nabízí možnost vytvořit trojúhelník
