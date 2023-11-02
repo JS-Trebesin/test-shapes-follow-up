@@ -9,7 +9,11 @@
 
 ## Úkol 2 - challenge
 
-[Tento úkol](https://js-trebesin.github.io/test-shapes/difficult/shapes.html) je náročnější a je zamýšlen pro ty, co chtějí trochu výzvu.
+Tento úkol je náročnější a je zamýšlen pro ty, co chtějí trochu výzvu.
+
+[challenge-jpg](https://github.com/JS-Trebesin/test-shapes-follow-up/assets/84028625/8107e2bb-1087-49d4-b504-545e47289f63)
+
+[challenge-gif](https://github.com/JS-Trebesin/test-shapes-follow-up/assets/84028625/a7645aa0-b440-46db-852f-1d8fbde56e92)
 
 - Úkol je rozšířením Úkolu 1
 - Výber tvarů je nyní pomocí přepínače (nápověda: input radio)
